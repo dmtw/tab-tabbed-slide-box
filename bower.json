@@ -1,0 +1,27 @@
+{
+  "name": "tabbed-slide-box",
+  "main":[
+      "tabbedSlideBox/tabSlideBox.js",
+      "tabbedSlideBox/tabSlideBox.css"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/testabit/tabbed-slide-box",
+  "authors": [
+    "Gabriel Anglada <gabriel.anglada@gmail.com>"
+  ],
+  "description": "tabbed-slide-box for ionic",
+  "keywords": [
+    "tab",
+    "slide",
+    "box"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
